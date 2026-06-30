@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Knigozavar</title><link>https://knigozavar.com/en/</link><description>Recent content on Knigozavar</description><generator>Hugo -- 0.163.3</generator><language>en-US</language><lastBuildDate>Mon, 01 Jun 2026 08:19:56 +0100</lastBuildDate><atom:link href="https://knigozavar.com/en/index.xml" rel="self" type="application/rss+xml"/><item><title>read so far in 2026</title><link>https://knigozavar.com/en/posts/read-so-far-in-2026/</link><pubDate>Mon, 01 Jun 2026 08:19:56 +0100</pubDate><author>Змей</author><guid>https://knigozavar.com/en/posts/read-so-far-in-2026/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Книги on Книгозавър</title><link>https://knigozavar.com/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</link><description>Recent content in Книги on Книгозавър</description><generator>Hugo -- 0.163.3</generator><language>bg-BG</language><lastBuildDate>Mon, 01 Jun 2026 08:19:56 +0100</lastBuildDate><atom:link href="https://knigozavar.com/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>прочетено досега в 2026</title><link>https://knigozavar.com/posts/read-so-far-in-2026/</link><pubDate>Mon, 01 Jun 2026 08:19:56 +0100</pubDate><author>Змей</author><guid>https://knigozavar.com/posts/read-so-far-in-2026/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"><![CDATA[<table>
 	<thead>
 			<tr>
-					<th>book</th>
-					<th>author</th>
-					<th>re-read</th>
+					<th>книга</th>
+					<th>автор</th>
+					<th>препрочит</th>
 			</tr>
 	</thead>
 	<tbody>
@@ -78,14 +78,14 @@
 					<td>✔️</td>
 			</tr>
 			<tr>
-					<td>Icarus</td>
-					<td>K. Ancrum</td>
-					<td></td>
-			</tr>
-			<tr>
 					<td>Middlegame</td>
 					<td>Seanan Mcguire</td>
 					<td>✔️</td>
+			</tr>
+			<tr>
+					<td>Icarus</td>
+					<td>K. Ancrum</td>
+					<td></td>
 			</tr>
 			<tr>
 					<td></td>
@@ -94,6 +94,6 @@
 			</tr>
 	</tbody>
 </table>
-<p><a href="https://www.thehugoawards.org/hugo-history/2026-hugo-awards/">reading of nominated for Hugo Award for 2026 - in progress</a></p>
+<p><a href="https://www.thehugoawards.org/hugo-history/2026-hugo-awards/">четене на номинираните за Хюго награди за 2026 - в прогрес</a></p>
 <hr>
-]]></content></item><item><title>Archive</title><link>https://knigozavar.com/en/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://knigozavar.com/en/archive/</guid><description>&amp;lt;no value&amp;gt;</description><content type="text/html" mode="escaped"></content></item></channel></rss>
+]]></content></item></channel></rss>
